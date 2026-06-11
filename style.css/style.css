@@ -11,18 +11,15 @@
 }
 .web{
     height: 500px;
-    margin: 10px 20px 10px 20px;
-    padding: 40px 60px 50px 50px;
-    box-shadow: 50px solid black;
-    font: 700;
-    background-repeat:repeat-x;
     background-image:url("../image/360.jpg");
-    background-size: 1800px;
-
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 footer{
-    font-size:small;
+    font-size:bold;
     text-align: center;
     padding: 10px;
-   
+    font-weight: bold;
+    
 }
