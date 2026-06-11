@@ -16,7 +16,7 @@
     box-shadow: 50px solid black;
     font: 700;
     background-repeat:repeat-x;
-    background-image:url("/image/360.jpg");
+    background-image:url("./image/360.jpg");
     background-size: 1800px;
 
 }
